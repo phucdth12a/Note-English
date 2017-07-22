@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target '1542257-1542258' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'SQLite.swift'
+  pod 'Charts'
+  pod 'Canvas'
+  
+  # Pods for 1542257-1542258
+  
+  target 'TodayExtension' do
+      pod 'SQLite.swift'
+  end
+
+end
+
+
+

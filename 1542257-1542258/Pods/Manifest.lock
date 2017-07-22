@@ -1,0 +1,22 @@
+PODS:
+  - Canvas (0.1.2)
+  - Charts (3.0.2):
+    - Charts/Core (= 3.0.2)
+  - Charts/Core (3.0.2)
+  - SQLite.swift (0.11.3):
+    - SQLite.swift/standard (= 0.11.3)
+  - SQLite.swift/standard (0.11.3)
+
+DEPENDENCIES:
+  - Canvas
+  - Charts
+  - SQLite.swift
+
+SPEC CHECKSUMS:
+  Canvas: eb861e3b555d032648146c8ffda1a5dea40059ca
+  Charts: 236d6ccdd0ce6feae151d89e829a7397381a21fd
+  SQLite.swift: 99b36c22084427f0abbeb957556ce1528cf10bb3
+
+PODFILE CHECKSUM: f09bc3ebbcff3bf4207181c27807891aa471d6ab
+
+COCOAPODS: 1.2.1

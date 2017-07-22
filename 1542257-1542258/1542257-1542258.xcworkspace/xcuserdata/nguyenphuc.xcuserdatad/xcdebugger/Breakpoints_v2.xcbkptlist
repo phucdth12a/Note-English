@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1542257-1542258/Controller/LearnIdiomsController.swift"
+            timestampString = "517569402.994781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "LearnIdiomsController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_542257_1542258.LearnIdiomsController.labelVietNamese.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "1542257-1542258"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuc/Desktop/1542257-1542258/1542257-1542258/Controller/LearnIdiomsController.swift"
+                  timestampString = "517518298.005539"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_542257_1542258.LearnIdiomsController.labelVietNamese.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "1542257-1542258"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuc/Desktop/1542257-1542258/1542257-1542258/Controller/LearnIdiomsController.swift"
+                  timestampString = "517518298.03201"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_542257_1542258.LearnIdiomsController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; _542257_1542258.LearnIdiomsController"
+                  moduleName = "1542257-1542258"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuc/Desktop/1542257-1542258/1542257-1542258/Controller/LearnIdiomsController.swift"
+                  timestampString = "517518298.038224"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "351">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_542257_1542258.LearnIdiomsController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;_542257_1542258.LearnIdiomsController&gt;"
+                  moduleName = "1542257-1542258"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuc/Desktop/1542257-1542258/1542257-1542258/Controller/LearnIdiomsController.swift"
+                  timestampString = "517518298.04508"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "262">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
